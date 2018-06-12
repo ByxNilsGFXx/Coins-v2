@@ -1,0 +1,5 @@
+name: Coins
+Version: 2.0
+api: 3.0.0-ALPHA12
+main: JavaPluginFX\Coins;
+author: JavaPluginFX
