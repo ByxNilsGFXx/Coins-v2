@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ByxNilsGFXx/Coins-v2
+branches:
+- master
+projects:
+  Coins-v2:
+    path: ""
+...
